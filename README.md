@@ -1,2 +1,3 @@
-# Jenkins-Lab
-Jenkins practice lab: build and test a simple Python app using a Jenkinsfile.
+# Jenkins Lab
+
+Small practice project: add two numbers and run two tests.
